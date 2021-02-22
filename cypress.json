@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://admin.typeform.com/login/",
+    "chromeWebSecurity": false,
+    "integrationFolder": "cypress/integration",
+    "testFiles": "**/*.spec.js",
+    "video": false
+  }
+  
